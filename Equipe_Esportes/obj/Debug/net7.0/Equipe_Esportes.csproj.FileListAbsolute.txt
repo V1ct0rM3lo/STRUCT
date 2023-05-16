@@ -1,0 +1,15 @@
+C:\Users\victo\Downloads\Repositório\STRUCT\Equipe_Esportes\bin\Debug\net7.0\Equipe_Esportes.exe
+C:\Users\victo\Downloads\Repositório\STRUCT\Equipe_Esportes\bin\Debug\net7.0\Equipe_Esportes.deps.json
+C:\Users\victo\Downloads\Repositório\STRUCT\Equipe_Esportes\bin\Debug\net7.0\Equipe_Esportes.runtimeconfig.json
+C:\Users\victo\Downloads\Repositório\STRUCT\Equipe_Esportes\bin\Debug\net7.0\Equipe_Esportes.dll
+C:\Users\victo\Downloads\Repositório\STRUCT\Equipe_Esportes\bin\Debug\net7.0\Equipe_Esportes.pdb
+C:\Users\victo\Downloads\Repositório\STRUCT\Equipe_Esportes\obj\Debug\net7.0\Equipe_Esportes.csproj.AssemblyReference.cache
+C:\Users\victo\Downloads\Repositório\STRUCT\Equipe_Esportes\obj\Debug\net7.0\Equipe_Esportes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Downloads\Repositório\STRUCT\Equipe_Esportes\obj\Debug\net7.0\Equipe_Esportes.AssemblyInfoInputs.cache
+C:\Users\victo\Downloads\Repositório\STRUCT\Equipe_Esportes\obj\Debug\net7.0\Equipe_Esportes.AssemblyInfo.cs
+C:\Users\victo\Downloads\Repositório\STRUCT\Equipe_Esportes\obj\Debug\net7.0\Equipe_Esportes.csproj.CoreCompileInputs.cache
+C:\Users\victo\Downloads\Repositório\STRUCT\Equipe_Esportes\obj\Debug\net7.0\Equipe_Esportes.dll
+C:\Users\victo\Downloads\Repositório\STRUCT\Equipe_Esportes\obj\Debug\net7.0\refint\Equipe_Esportes.dll
+C:\Users\victo\Downloads\Repositório\STRUCT\Equipe_Esportes\obj\Debug\net7.0\Equipe_Esportes.pdb
+C:\Users\victo\Downloads\Repositório\STRUCT\Equipe_Esportes\obj\Debug\net7.0\Equipe_Esportes.genruntimeconfig.cache
+C:\Users\victo\Downloads\Repositório\STRUCT\Equipe_Esportes\obj\Debug\net7.0\ref\Equipe_Esportes.dll
