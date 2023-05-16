@@ -1,0 +1,15 @@
+C:\Users\victo\Downloads\Repositório\STRUCT\Jogador_Futebol\bin\Debug\net7.0\Jogador_Futebol.exe
+C:\Users\victo\Downloads\Repositório\STRUCT\Jogador_Futebol\bin\Debug\net7.0\Jogador_Futebol.deps.json
+C:\Users\victo\Downloads\Repositório\STRUCT\Jogador_Futebol\bin\Debug\net7.0\Jogador_Futebol.runtimeconfig.json
+C:\Users\victo\Downloads\Repositório\STRUCT\Jogador_Futebol\bin\Debug\net7.0\Jogador_Futebol.dll
+C:\Users\victo\Downloads\Repositório\STRUCT\Jogador_Futebol\bin\Debug\net7.0\Jogador_Futebol.pdb
+C:\Users\victo\Downloads\Repositório\STRUCT\Jogador_Futebol\obj\Debug\net7.0\Jogador_Futebol.csproj.AssemblyReference.cache
+C:\Users\victo\Downloads\Repositório\STRUCT\Jogador_Futebol\obj\Debug\net7.0\Jogador_Futebol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Downloads\Repositório\STRUCT\Jogador_Futebol\obj\Debug\net7.0\Jogador_Futebol.AssemblyInfoInputs.cache
+C:\Users\victo\Downloads\Repositório\STRUCT\Jogador_Futebol\obj\Debug\net7.0\Jogador_Futebol.AssemblyInfo.cs
+C:\Users\victo\Downloads\Repositório\STRUCT\Jogador_Futebol\obj\Debug\net7.0\Jogador_Futebol.csproj.CoreCompileInputs.cache
+C:\Users\victo\Downloads\Repositório\STRUCT\Jogador_Futebol\obj\Debug\net7.0\Jogador_Futebol.dll
+C:\Users\victo\Downloads\Repositório\STRUCT\Jogador_Futebol\obj\Debug\net7.0\refint\Jogador_Futebol.dll
+C:\Users\victo\Downloads\Repositório\STRUCT\Jogador_Futebol\obj\Debug\net7.0\Jogador_Futebol.pdb
+C:\Users\victo\Downloads\Repositório\STRUCT\Jogador_Futebol\obj\Debug\net7.0\Jogador_Futebol.genruntimeconfig.cache
+C:\Users\victo\Downloads\Repositório\STRUCT\Jogador_Futebol\obj\Debug\net7.0\ref\Jogador_Futebol.dll
